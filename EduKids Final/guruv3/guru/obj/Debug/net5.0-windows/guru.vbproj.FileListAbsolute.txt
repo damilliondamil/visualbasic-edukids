@@ -1,0 +1,220 @@
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\guru.exe
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\guru.deps.json
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.json
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.dev.json
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\guru.dll
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\ref\guru.dll
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\guru.pdb
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\Google.Protobuf.dll
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\MySql.Data.dll
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+D:\Materi\guru\guru\bin\Debug\net5.0-windows\ZstdNet.dll
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.vbproj.AssemblyReference.cache
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.Form1.resources
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.vbproj.GenerateResource.cache
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.AssemblyInfoInputs.cache
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.AssemblyInfo.vb
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.vbproj.CoreCompileInputs.cache
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.vbproj.CopyComplete
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.dll
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\ref\guru.dll
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.pdb
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.genruntimeconfig.cache
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.Form2.resources
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.menuguru.resources
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.Form3.resources
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\guru.exe
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\guru.deps.json
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.json
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.dev.json
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\guru.dll
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\ref\guru.dll
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\guru.pdb
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\guru\guru\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.vbproj.AssemblyReference.cache
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.Form1.resources
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.Form2.resources
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.Form3.resources
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.menuguru.resources
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.vbproj.GenerateResource.cache
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.AssemblyInfo.vb
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.vbproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.vbproj.CopyComplete
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.dll
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\ref\guru.dll
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.pdb
+C:\Users\User\Downloads\guru\guru\obj\Debug\net5.0-windows\guru.genruntimeconfig.cache
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.Form4.resources
+D:\Materi\guru\guru\obj\Debug\net5.0-windows\guru.Resources.resources
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\guru.exe
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\guru.deps.json
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.json
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.dev.json
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\guru.dll
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\ref\guru.dll
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\guru.pdb
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.vbproj.AssemblyReference.cache
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.Form1.resources
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.Form2.resources
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.Form3.resources
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.menuguru.resources
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.Resources.resources
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.vbproj.GenerateResource.cache
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.AssemblyInfo.vb
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.vbproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.vbproj.CopyComplete
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.dll
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\ref\guru.dll
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.pdb
+C:\Users\User\Downloads\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.genruntimeconfig.cache
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\guru.exe
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\guru.deps.json
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.json
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.dev.json
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\guru.dll
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\ref\guru.dll
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\guru.pdb
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\Google.Protobuf.dll
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\MySql.Data.dll
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\bin\Debug\net5.0-windows\ZstdNet.dll
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.vbproj.AssemblyReference.cache
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.Form1.resources
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.Form2.resources
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.Form3.resources
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.menuguru.resources
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.Resources.resources
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.vbproj.GenerateResource.cache
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.GeneratedMSBuildEditorConfig.editorconfig
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.AssemblyInfoInputs.cache
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.AssemblyInfo.vb
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.vbproj.CoreCompileInputs.cache
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.vbproj.CopyComplete
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.dll
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\ref\guru.dll
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.pdb
+D:\projek dapi kepin\pemvisprojeki\guruv1\guru\obj\Debug\net5.0-windows\guru.genruntimeconfig.cache
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\guru.exe
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\guru.deps.json
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.json
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.dev.json
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\guru.dll
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\ref\guru.dll
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\guru.pdb
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\Google.Protobuf.dll
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\MySql.Data.dll
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+D:\projek dapi kepin\version2\guruv2\guru\bin\Debug\net5.0-windows\ZstdNet.dll
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.vbproj.AssemblyReference.cache
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.Form1.resources
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.Form2.resources
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.Form3.resources
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.menuguru.resources
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.Resources.resources
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.vbproj.GenerateResource.cache
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.GeneratedMSBuildEditorConfig.editorconfig
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.AssemblyInfoInputs.cache
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.AssemblyInfo.vb
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.vbproj.CoreCompileInputs.cache
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.vbproj.CopyComplete
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.dll
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\ref\guru.dll
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.pdb
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.genruntimeconfig.cache
+D:\projek dapi kepin\version2\guruv2\guru\obj\Debug\net5.0-windows\guru.welcome.resources
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\guru.exe
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\guru.deps.json
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.json
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.dev.json
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\guru.dll
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\ref\guru.dll
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\guru.pdb
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\v3\guruv3\guru\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.vbproj.AssemblyReference.cache
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.Form1.resources
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.Form2.resources
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.Form3.resources
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.menuguru.resources
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.Resources.resources
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.welcome.resources
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.vbproj.GenerateResource.cache
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.AssemblyInfo.vb
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.vbproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.vbproj.CopyComplete
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.dll
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\ref\guru.dll
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.pdb
+C:\Users\User\Downloads\v3\guruv3\guru\obj\Debug\net5.0-windows\guru.genruntimeconfig.cache
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\guru.exe
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\guru.deps.json
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.json
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\guru.runtimeconfig.dev.json
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\guru.dll
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\ref\guru.dll
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\guru.pdb
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\Google.Protobuf.dll
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\MySql.Data.dll
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\bin\Debug\net5.0-windows\ZstdNet.dll
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.vbproj.AssemblyReference.cache
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.Form1.resources
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.Form2.resources
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.Form3.resources
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.menuguru.resources
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.Resources.resources
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.welcome.resources
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.vbproj.GenerateResource.cache
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.AssemblyInfoInputs.cache
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.AssemblyInfo.vb
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.vbproj.CoreCompileInputs.cache
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.vbproj.CopyComplete
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.dll
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\ref\guru.dll
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.pdb
+D:\Pnj rapih\semester 3\Pemrograman Visual\Tugas Akhir\EduKids Final\guruv3\guru\obj\Debug\net5.0-windows\guru.genruntimeconfig.cache
